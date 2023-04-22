@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center">
+<h1>Bem Vindo ao meu Repositório!</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPompei&layout=compact&langs_count=10&theme=dark"/>
+</div>
+ 
+<div align="center">
+<h2> Linguagens e Tecnologias</h2>
+<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />     
+<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
+<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>    
 
-<!--
-**helioPompei/helioPompei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+            
+          
+       
+          
+           
+          
+          
