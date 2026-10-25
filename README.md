@@ -1,23 +1,17 @@
-<div align="center">
-<h1>Bem Vindo ao meu Repositório!</h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelioPompei&layout=compact&langs_count=10&theme=dark"/>
-</div>
- 
-<div align="center">
-<h2> Linguagens e Tecnologias</h2>
-<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
-<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />     
-<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
-<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-</div>    
+# Hi, I'm Hélio 👋
 
-          
-            
-          
-       
-          
-           
-          
-          
+**DevOps Engineer** focused on AWS, with hands-on Azure experience.
+I build and run cloud infrastructure: Infrastructure as Code with Terraform,
+containers on Kubernetes (EKS) and ECS, and CI/CD pipelines.
+I work with international teams across different stacks and like
+picking up new tools fast.
+
+### 🛠️ Stack
+
+[![Stack](https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,githubactions,ansible,linux)](https://skillicons.dev)
+
+AWS · Azure · Terraform · Kubernetes · Docker · GitHub Actions · Ansible · Linux
+
+### 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heliopompei-0A66C2)](https://www.linkedin.com/in/heliopompei/)
