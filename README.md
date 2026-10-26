@@ -10,7 +10,7 @@ picking up new tools fast.
 
 [![Stack](https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,docker,githubactions,ansible,linux)](https://skillicons.dev)
 
-AWS · Azure · Terraform · Kubernetes · Docker · GitHub Actions · Ansible · Linux
+AWS · Azure · Terraform · Kubernetes · ArgoCD · Docker · GitHub Actions · Ansible · Linux
 
 ### 📫 Contact
 
